@@ -11,7 +11,8 @@
 
     &--primary{
         color: #fff;
-        background-color: purple;
+        background-color: rgb(128, 0, 128);
+        text-align: center;
     }
     
     @media (max-width:640px){
@@ -19,6 +20,7 @@
         width: 100%;
         margin-top: 1em;
         align-items: center;
+        justify-content: center;
         
     }
 
