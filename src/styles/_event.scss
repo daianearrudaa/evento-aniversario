@@ -34,7 +34,7 @@
     }
 
     &__image{
-        max-width: 360px;
+        max-width: 400px;
         border-radius: 10px;
     }
 
@@ -53,6 +53,9 @@
     }
 
     @media (max-width:640px){
+        align-items: center;
+        text-align: center;
+        
         .container{
             display: block;
         }
@@ -62,8 +65,10 @@
         }
 
         &__details{
-            margin-right: 0;
+            align-items: center;
             margin-bottom: 16px;
+            text-align: center;
+        
         }
     }
 }
