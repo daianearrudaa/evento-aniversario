@@ -1,6 +1,6 @@
 # Convite Online para o Aniversário 🎉
 
-Este repositório contém um convite online para "aniversário", apresentando uma experiência interativa e informativa para os convidados, realizando a contagem regressiva da data.
+Este repositório é sobre um evente de "aniversário", apresentando uma experiência  informativa para os convidados, realizando a contagem regressiva da data.
 
 
 ### Tecnologias Utilizadas
